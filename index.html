@@ -144,6 +144,17 @@ footer{padding:34px 0 40px;font-size:.9rem;color:var(--mute);text-align:center}
  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;animation-delay:0s!important}
  .rv,.hero .in,.hero .arch{opacity:1;transform:none}
 }
+
+/* Keep page navigation available on phones. */
+@media(max-width:860px){nav a[href="funcoes.html"]{display:inline-flex}.bar{gap:12px}nav{gap:12px}nav .btn{padding:8px 10px;font-size:.8rem}.logo{font-size:1.05rem}}
+@media(max-width:420px){.bar nav .btn svg{display:none}.bar nav{gap:10px}.bar .logo{font-size:1rem}}
+.fly{aspect-ratio:auto}.fly img{height:auto;object-fit:contain}
+
+/* Full portrait framing, with no cut at the top of the head. */
+.hero .arch{aspect-ratio:auto;border-radius:24px}.hero .arch img{height:auto;object-fit:contain}
+.shots .ph:has(img[src="img/recepcao-1.jpg"]),.shots .ph:has(img[src="img/recepcao-2.jpg"]){aspect-ratio:auto}
+.shots img[src="img/recepcao-1.jpg"],.shots img[src="img/recepcao-2.jpg"]{height:auto;object-fit:contain}
+.shots .ph:has(img[src^="img/recepcao-"]):hover img{transform:none}
 </style>
 </head>
 <body>
@@ -167,7 +178,7 @@ footer{padding:34px 0 40px;font-size:.9rem;color:var(--mute);text-align:center}
 <header id="top"><div class="wrap bar">
  <a class="logo" href="#inicio">Erika Bezerra</a>
  <nav aria-label="Principal">
-  <a href="#sobre">Sobre</a><a href="#funcoes">Funções</a><a href="#trabalhos">Trabalhos</a><a href="#contato">Contato</a>
+  <a href="#sobre">Sobre</a><a href="funcoes.html">Funções</a><a href="#trabalhos">Trabalhos</a><a href="#contato">Contato</a>
   <a class="btn line sm" href="portfolio-erika-bezerra.pdf" target="_blank" rel="noopener" download><svg class="ic"><use href="#i-dl"/></svg>Portfólio PDF</a>
  </nav>
 </div></header>
@@ -199,6 +210,7 @@ footer{padding:34px 0 40px;font-size:.9rem;color:var(--mute);text-align:center}
 </div></section>
 
 <section id="funcoes"><div class="wrap">
+<p style="margin-bottom:26px"><a class="btn line" href="funcoes.html">Ver as atividades de cada função</a></p>
  <div class="head rv"><p class="kick">Como posso ajudar</p><h2>Uma profissional, diferentes formas de contribuir.</h2>
  <p class="sub">Funções combinadas de acordo com o formato e as necessidades de cada evento.</p></div>
  <div class="grid">
