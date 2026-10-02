@@ -144,6 +144,25 @@ footer{padding:34px 0 40px;font-size:.9rem;color:var(--mute);text-align:center}
  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;animation-delay:0s!important}
  .rv,.hero .in,.hero .arch{opacity:1;transform:none}
 }
+
+/* GAFFFF 2026: recent work, full-frame photographs and manual video playback. */
+.event-feature{background:var(--sage2);border-top:1px solid var(--line)}
+.event-heading{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:start;margin-bottom:38px}
+.event-heading h2{max-width:20ch}.event-heading h3{margin:22px 0 12px}
+.event-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;padding:0;list-style:none}
+.event-meta li{border:1px solid #b6c4b4;padding:7px 14px;border-radius:24px;font-size:.9rem}
+.event-context{padding:26px;border:1px solid var(--line);border-radius:22px;background:var(--cream)}
+.event-context p+p{margin-top:16px}.event-source{font-size:.85rem;color:var(--mute)}
+.event-photos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;align-items:start}
+.event-photos figure{margin:0;min-width:0}.event-photos img{width:100%;height:auto;border-radius:18px;background:var(--sage)}
+.event-photos figcaption,.event-videos figcaption{font-size:.9rem;line-height:1.5;color:var(--mute);padding:12px 3px}
+.event-photos .event-map{grid-column:2/4}
+.event-videos{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:24px}
+.event-videos figure{margin:0;min-width:0}.event-videos video{width:100%;height:360px;object-fit:contain;display:block;background:#17241e;border-radius:18px}
+.event-video-title{margin-top:44px}.event-video-title p{margin-top:10px;color:var(--mute)}
+.event-feature .cta{margin-top:32px}.event-link{display:inline-block;margin-top:14px;color:var(--green);text-underline-offset:4px}
+@media(max-width:860px){.event-heading{grid-template-columns:1fr;gap:24px}.event-photos{grid-template-columns:1fr 1fr;gap:14px}.event-photos .event-map{grid-column:1/-1}.event-videos{grid-template-columns:1fr}.event-videos video{height:320px}}
+@media(max-width:480px){.event-photos{grid-template-columns:1fr}.event-photos .event-map{grid-column:auto}.event-context{padding:22px}.event-meta li{font-size:.85rem}}
 </style>
 </head>
 <body>
@@ -177,7 +196,7 @@ footer{padding:34px 0 40px;font-size:.9rem;color:var(--mute);text-align:center}
  <div>
   <p class="kick in">Eventos</p>
   <h1 class="in"><span>Erika</span><span>Bezerra</span></h1>
-  <p class="tag in">Gente bem recebida. Eventos bem cuidados.</p>
+  <p class="tag in">Gente bem recebida. Eventos bem cuidados.</p><a class="event-link" href="#gaffff-2026">Trabalho recente: Erika no GAFFFF 2026</a>
   <ul class="chips in"><li>Recepção</li><li>Bar</li><li>Camarote</li><li>Salão</li><li>Buffet</li><li>Cozinha</li><li>Ações promocionais</li></ul>
   <div class="cta in">
    <a class="btn fill" href="#contato"><svg class="ic"><use href="#i-wa"/></svg>Chamar para o meu evento</a>
@@ -216,6 +235,24 @@ footer{padding:34px 0 40px;font-size:.9rem;color:var(--mute);text-align:center}
 </div></section>
 
 <div id="trabalhos"></div>
+<section class="event-feature" id="gaffff-2026" aria-labelledby="gaffff-title"><div class="wrap">
+ <div class="event-heading">
+  <div><p class="kick">Trabalho em destaque · 1º e 2 de outubro de 2026</p>
+   <h2 id="gaffff-title">Nos bastidores de grandes encontros.</h2>
+   <h3>GAFFFF — Global Agribusiness Festival</h3>
+   <p>Erika atua como <strong>auxiliar de cozinha nos dias 1º e 2 de outubro de 2026</strong> no GAFFFF, no Nubank Parque, em São Paulo. Uma experiência que soma à sua trajetória de apoio a eventos de grande porte.</p>
+   <ul class="event-meta" aria-label="Informações sobre o trabalho"><li>Auxiliar de cozinha</li><li>Nubank Parque · São Paulo</li><li><time datetime="2026-10-01">01</time> e <time datetime="2026-10-02">02/10/2026</time></li></ul>
+  </div>
+  <aside class="event-context" aria-label="Sobre o festival"><p class="kick">Um encontro de alcance internacional</p><p>O GAFFFF conecta o agronegócio a negócios, gastronomia, conteúdo e entretenimento. Para a edição de 1º e 2 de outubro, a organização anunciou expectativa de mais de 30 mil participantes.</p><p>A atuação da Erika nos bastidores integra esse registro de experiência profissional, com a colaboração de quem ajuda o evento a acontecer.</p><p class="event-source">Sobre o evento: <a href="https://gaffff.com/empresas-negocios-festival-de-cultura-do-agro/" target="_blank" rel="noopener">organização do GAFFFF</a> · <a href="https://web02.nubankparque.com/gaffff/" target="_blank" rel="noopener">agenda do Nubank Parque</a>.</p></aside>
+ </div>
+ <p class="sub" style="margin-bottom:24px">Fotos e vídeos registrados em 1º de outubro de 2026.</p><div class="event-photos">
+<figure class=""><a href="img/gaffff-2026/erika-na-arena.webp" target="_blank" rel="noopener" aria-label="Ampliar foto: Erika no espaço do festival, ao lado de um painel da programação."><img src="img/gaffff-2026/erika-na-arena.webp" alt="Erika no espaço do festival, ao lado de um painel da programação." loading="lazy" decoding="async"></a><figcaption>Erika no espaço do festival, ao lado de um painel da programação.</figcaption></figure>
+<figure class=""><a href="img/gaffff-2026/erika-no-evento.webp" target="_blank" rel="noopener" aria-label="Ampliar foto: Registro de Erika em uma das áreas do evento."><img src="img/gaffff-2026/erika-no-evento.webp" alt="Registro de Erika em uma das áreas do evento." loading="lazy" decoding="async"></a><figcaption>Registro de Erika em uma das áreas do evento.</figcaption></figure>
+<figure class=""><a href="img/gaffff-2026/encontro-no-evento.webp" target="_blank" rel="noopener" aria-label="Ampliar foto: Um encontro registrado durante o festival."><img src="img/gaffff-2026/encontro-no-evento.webp" alt="Um encontro registrado durante o festival." loading="lazy" decoding="async"></a><figcaption>Um encontro registrado durante o festival.</figcaption></figure>
+<figure class=""><a href="img/gaffff-2026/registro-datagro.webp" target="_blank" rel="noopener" aria-label="Ampliar foto: Erika diante do painel DATAGRO."><img src="img/gaffff-2026/registro-datagro.webp" alt="Erika diante do painel DATAGRO." loading="lazy" decoding="async"></a><figcaption>Erika diante do painel DATAGRO.</figcaption></figure>
+<figure class="event-map"><a href="img/gaffff-2026/mapa-do-evento.webp" target="_blank" rel="noopener" aria-label="Ampliar foto: Mapa dos espaços e acessos do evento."><img src="img/gaffff-2026/mapa-do-evento.webp" alt="Mapa dos espaços e acessos do evento." loading="lazy" decoding="async"></a><figcaption>Mapa dos espaços e acessos do evento.</figcaption></figure>
+</div><div class="event-video-title"><h3>O evento em movimento</h3><p>Dois registros do primeiro dia para conhecer um pouco mais do ambiente do festival. Toque em reproduzir para assistir.</p></div><div class="event-videos"><figure><video controls playsinline preload="metadata" aria-label="Vídeo 1: registro do evento de 1º de outubro"><source src="videos/gaffff-2026/registro-1.mp4" type="video/mp4">Seu navegador não reproduz este vídeo. <a href="videos/gaffff-2026/registro-1.mp4">Abrir o vídeo 1</a>.</video><figcaption>Registro 1 · GAFFFF · 01/10/2026</figcaption></figure><figure><video controls playsinline preload="metadata" aria-label="Vídeo 2: registro do evento de 1º de outubro"><source src="videos/gaffff-2026/registro-2.mp4" type="video/mp4">Seu navegador não reproduz este vídeo. <a href="videos/gaffff-2026/registro-2.mp4">Abrir o vídeo 2</a>.</video><figcaption>Registro 2 · GAFFFF · 01/10/2026</figcaption></figure></div><div class="cta"><a class="btn fill" href="#contato">Conte com a Erika no seu evento</a><a class="btn line" href="funcoes.html">Conheça todas as funções</a></div></div></section>
+
 
 <section class="work"><div class="wrap split">
  <div class="txt rv"><svg class="ic"><use href="#i-recep"/></svg><p class="kick">Recepção e atendimento</p><h2>Acolher, orientar e cuidar da primeira impressão.</h2>
