@@ -1,4 +1,4 @@
-# Erika Bezerra Eventos — landing page
+# Érika Bezerra Eventos — landing page
 
 Site estático (HTML + CSS + JS puro), pronto para o GitHub Pages.
 

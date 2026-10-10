@@ -1,0 +1,5 @@
+Restauro do retrato de abertura
+Ferramenta: edição de imagens integrada (ImageGen).
+Original preservado: img/hero.jpg
+Versão utilizada: img/hero-restaurada.webp
+Prompt: Restore and enhance this exact portrait photograph for a professional events worker portfolio. Preserve Érika's exact identity, age, face shape, skin tone, mole, glasses, hairstyle, expression, white collared shirt and original composition. Natural photographic restoration: improve resolution and fine detail, reduce compression and noise, subtle balanced warm light, natural skin texture, clear eyes and glasses without changing facial features. Keep original dark brown background. No beautification, no makeup changes, no text, no additional objects. High quality faithful portrait.
