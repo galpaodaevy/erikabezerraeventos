@@ -1,5 +1,16 @@
 [
   {
+    "id": "eduardo-costa-2026",
+    "title": "Show do Eduardo Costa",
+    "date": "11 de outubro de 2026",
+    "datetime": "2026-10-11",
+    "place": "CTN",
+    "role": "Promotora",
+    "description": "Atuação como promotora no show do Eduardo Costa, no CTN.",
+    "photos": [],
+    "videos": []
+  },
+  {
     "id": "zayn-2026",
     "title": "Preparação para o show do Zayn",
     "date": "Setembro de 2026",
@@ -50,7 +61,7 @@
     "title": "Só Pra Contrariar com Alexandre Pires",
     "date": "5 e 6 de abril de 2024",
     "datetime": "2024-04-05",
-    "place": "Allianz Parque",
+    "place": "Nubank Parque",
     "role": "Atendente de bar",
     "description": "Atendimento de bar na turnê de despedida SPC Acústico 2 – O Último Encontro. Apresentações em São Paulo nos dias 5 e 6 de abril de 2024. Trabalho sem registro fotográfico ou audiovisual disponível.",
     "photos": [],
@@ -125,22 +136,8 @@
     "photos": [
       "media/playarte-2016/foto-1.jpg",
       "media/playarte-2016/foto-2.jpg",
-      "media/playarte-2016/foto-3.jpg",
-      "media/playarte-2016/foto-4.jpg",
-      "media/playarte-2016/foto-5.jpg",
-      "media/playarte-2016/foto-6.jpg"
+      "media/playarte-2016/foto-3.jpg"
     ],
-    "videos": []
-  },
-  {
-    "id": "unoi-2016",
-    "title": "UnoI Educação",
-    "date": "2016",
-    "datetime": "2016",
-    "place": "",
-    "role": "",
-    "description": "Experiência profissional na UnoI Educação.",
-    "photos": [],
     "videos": []
   },
   {
@@ -150,21 +147,13 @@
     "datetime": "",
     "place": "",
     "role": "Organização e decoração",
-    "description": "Organização e decoração de chá revelação, aniversários, festas infantis e festas temáticas.",
+    "description": "Organização e decoração de aniversários, festas infantis e festas temáticas.",
     "photos": [
       "media/celebracoes/foto-1.jpeg",
-      "media/celebracoes/foto-2.jpeg",
-      "media/celebracoes/foto-3.jpeg",
-      "media/celebracoes/foto-4.jpeg",
       "media/celebracoes/foto-5.jpeg",
       "media/celebracoes/foto-6.jpeg",
       "media/celebracoes/foto-7.jpeg",
       "media/celebracoes/foto-8.jpeg",
-      "media/celebracoes/foto-9.jpeg",
-      "media/celebracoes/foto-10.jpeg",
-      "media/celebracoes/foto-11.jpeg",
-      "media/celebracoes/foto-12.jpeg",
-      "media/celebracoes/foto-13.jpeg",
       "media/celebracoes/foto-14.jpeg",
       "media/celebracoes/foto-15.jpeg",
       "media/celebracoes/foto-16.jpeg",
@@ -183,6 +172,38 @@
     "description": "Registro guardado para identificação do projeto.",
     "photos": [
       "media/equipe-a-identificar/foto-1.jpg"
+    ],
+    "videos": []
+  },
+  {
+    "id": "cha-revelacao-2020",
+    "title": "Chá revelação",
+    "date": "Dezembro de 2020",
+    "datetime": "2020-12",
+    "place": "",
+    "role": "Organização e decoração",
+    "description": "Organização e decoração de chá revelação.",
+    "photos": [
+      "media/celebracoes/foto-9.jpeg",
+      "media/celebracoes/foto-10.jpeg",
+      "media/celebracoes/foto-11.jpeg",
+      "media/celebracoes/foto-12.jpeg",
+      "media/celebracoes/foto-13.jpeg"
+    ],
+    "videos": []
+  },
+  {
+    "id": "unoi-halloween-2015",
+    "title": "Halloween — UnoI Educação",
+    "date": "Outubro de 2015",
+    "datetime": "2015-10",
+    "place": "",
+    "role": "",
+    "description": "Registros do evento de Halloween da UnoI Educação.",
+    "photos": [
+      "media/unoi-halloween-2015/foto-1.jpg",
+      "media/unoi-halloween-2015/foto-2.jpg",
+      "media/unoi-halloween-2015/foto-3.jpg"
     ],
     "videos": []
   }

@@ -1,9 +1,12 @@
-Pasta de trabalho: E:/projeto/Érika/site-atualizado
-Inicial: GAFFFF, Tardezinha e preparação para o show do Zayn.
-trabalhos.html: todos os eventos por período, experiências sem data e registros já publicados.
-Só Pra Contrariar: apresentações em 5 e 6 de abril de 2024; não presumida presença nos dois dias.
-Pendências: função em PlayArte, UnoI e Hackathon; datas e locais das festas particulares. Foto de equipe a identificar guardada fora da página pública.
-Claude: criar certificacoes.html e arquivos próprios nesta pasta. Codex integra o menu. Sobre aguarda áudios e depoimentos aguardam material.
-Não publicado no GitHub Pages.
+ATUALIZAÇÃO — 12/10/2026
 
-Certificações integrada em 10/10/2026: 8 certificados, menu em todas as páginas e ampliação das imagens.
+Show do Eduardo Costa no CTN: promotora, 11/10/2026.
+Chá revelação: dezembro de 2020, em seção própria.
+Halloween: UnoI Educação, outubro de 2015, com três fotos reclassificadas.
+Fotos do aniversário da Ana retiradas da versão para publicação.
+Depoimento do Bruno identificado somente como evento corporativo.
+Serviços de decoração de festas e guia turística adicionados.
+Novo certificado: Captação de Eventos, com CPF ocultado na imagem.
+
+O index.html deve ficar na raiz do repositório.
+Envie o conteúdo extraído, preservando as pastas, nunca o ZIP.
