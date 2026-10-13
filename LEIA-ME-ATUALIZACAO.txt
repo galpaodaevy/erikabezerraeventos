@@ -10,3 +10,8 @@ Novo certificado: Captação de Eventos, com CPF ocultado na imagem.
 
 O index.html deve ficar na raiz do repositório.
 Envie o conteúdo extraído, preservando as pastas, nunca o ZIP.
+
+COMPLEMENTO V2
+Fotos e vídeo do Eduardo Costa no CTN adicionados.
+Função de promotora de eventos adicionada.
+Certificado de Agenciamento Turístico e Hospitalidade adicionado.

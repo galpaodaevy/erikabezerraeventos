@@ -7,8 +7,22 @@
     "place": "CTN",
     "role": "Promotora",
     "description": "Atuação como promotora no show do Eduardo Costa, no CTN.",
-    "photos": [],
-    "videos": []
+    "photos": [
+      "media/eduardo-costa-2026/foto-1.jpeg",
+      "media/eduardo-costa-2026/foto-2.jpeg",
+      "media/eduardo-costa-2026/foto-3.jpeg",
+      "media/eduardo-costa-2026/foto-4.jpeg",
+      "media/eduardo-costa-2026/foto-5.jpeg",
+      "media/eduardo-costa-2026/foto-6.jpeg",
+      "media/eduardo-costa-2026/foto-7.jpeg",
+      "media/eduardo-costa-2026/foto-8.jpeg",
+      "media/eduardo-costa-2026/foto-9.jpeg",
+      "media/eduardo-costa-2026/foto-10.jpeg",
+      "media/eduardo-costa-2026/foto-11.jpeg"
+    ],
+    "videos": [
+      "media/eduardo-costa-2026/video-1.mp4"
+    ]
   },
   {
     "id": "zayn-2026",
