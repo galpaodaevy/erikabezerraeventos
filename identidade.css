@@ -8,3 +8,5 @@
 @media(max-width:1000px){.page-trabalhos .timeline-event>.wrap{grid-template-columns:minmax(0,1fr);gap:24px}.page-trabalhos .timeline-event .timeline-title{grid-row:auto}}
 
 .page-trabalhos .timeline-intro .sub{color:#dce5d8}
+/* Preserve the face in the portrait kitchen photos. */
+#zayn-2026 .gallery img{object-position:center top}
