@@ -6,7 +6,7 @@
     "datetime": "2026-10-11",
     "place": "CTN",
     "role": "Promotora",
-    "description": "Atuação como promotora no show do Eduardo Costa, no CTN.",
+    "description": "Atuei como promotora no show do Eduardo Costa, no CTN.",
     "photos": [
       "media/eduardo-costa-2026/foto-1.jpeg",
       "media/eduardo-costa-2026/foto-2.jpeg",
@@ -25,13 +25,29 @@
     ]
   },
   {
+    "id": "preparacao-maroon-5-2026",
+    "title": "Preparação para o show do Maroon 5",
+    "date": "Setembro de 2026",
+    "datetime": "2026-09",
+    "place": "Nubank Parque",
+    "role": "",
+    "category": "trabalhos",
+    "description": "Registros do preparo e da finalização de alimentos nos bastidores do show.",
+    "photos": [
+      "media/preparacao-maroon-5-2026/preparacao-maroon-5-1.webp",
+      "media/preparacao-maroon-5-2026/preparacao-maroon-5-2.webp",
+      "media/preparacao-maroon-5-2026/preparacao-maroon-5-3.webp"
+    ],
+    "videos": []
+  },
+  {
     "id": "zayn-2026",
     "title": "Preparação para o show do Zayn",
     "date": "Setembro de 2026",
     "datetime": "2026-09",
     "place": "Nubank Parque",
     "role": "Auxiliar de cozinha",
-    "description": "Apoio à preparação de alimentos na cozinha para o evento.",
+    "description": "Ajudei no preparo dos alimentos da cozinha para o show.",
     "photos": [
       "media/zayn-2026/foto-1.jpeg",
       "media/zayn-2026/foto-2.jpeg",
@@ -55,7 +71,7 @@
     "datetime": "2025",
     "place": "Neo Química Arena",
     "role": "Atendente de bar",
-    "description": "Atendimento de bar durante o Tardezinha na Neo Química Arena.",
+    "description": "Atendimento no bar do Tardezinha, na Neo Química Arena.",
     "photos": [
       "media/tardezinha-2025/foto-1.jpg",
       "media/tardezinha-2025/foto-2.jpg",
@@ -77,7 +93,7 @@
     "datetime": "2024-04-05",
     "place": "Nubank Parque",
     "role": "Atendente de bar",
-    "description": "Atendimento de bar na turnê de despedida SPC Acústico 2 – O Último Encontro. Apresentações em São Paulo nos dias 5 e 6 de abril de 2024. Trabalho sem registro fotográfico ou audiovisual disponível.",
+    "description": "Atendimento de bar na turnê de despedida SPC Acústico 2 – O Último Encontro, nos dias 5 e 6 de abril, em São Paulo. Sem fotos desse, mas faz parte da minha história.",
     "photos": [],
     "videos": []
   },
@@ -88,7 +104,7 @@
     "datetime": "2024-02",
     "place": "Autódromo de Interlagos",
     "role": "Garçonete de camarote",
-    "description": "Atendimento no camarote durante o Afterlife 2024.",
+    "description": "Atendimento no camarote do Afterlife 2024.",
     "photos": [
       "media/afterlife-2024/foto-1.jpg",
       "media/afterlife-2024/foto-2.jpg",
@@ -106,7 +122,7 @@
     "datetime": "2024-02",
     "place": "",
     "role": "Puxador humano no Carnaval",
-    "description": "Atuação como puxador humano durante o bloco de Carnaval.",
+    "description": "Puxador humano no bloco de Carnaval.",
     "photos": [
       "media/baixa-augusta-2024/foto-1.jpg",
       "media/baixa-augusta-2024/foto-2.jpg",
@@ -126,7 +142,7 @@
     "datetime": "2019",
     "place": "",
     "role": "",
-    "description": "Projeto em parceria com Instituto Center Norte, ETEC Parque da Juventude e Ideias do Futuro.",
+    "description": "Projeto em parceria com o Instituto Center Norte, a ETEC Parque da Juventude e a Ideias do Futuro.",
     "photos": [
       "media/hackathon-2019/foto-1.jpeg",
       "media/hackathon-2019/foto-2.jpeg",
@@ -146,7 +162,7 @@
     "datetime": "2016",
     "place": "",
     "role": "",
-    "description": "Registros da experiência profissional na PlayArte.",
+    "description": "Os registros da minha época na PlayArte.",
     "photos": [
       "media/playarte-2016/foto-1.jpg",
       "media/playarte-2016/foto-2.jpg",
@@ -161,7 +177,7 @@
     "datetime": "",
     "place": "",
     "role": "Organização e decoração",
-    "description": "Organização e decoração de aniversários, festas infantis e festas temáticas.",
+    "description": "Aniversários, festas infantis e temáticas, da mesa de doces à decoração.",
     "photos": [
       "media/celebracoes/foto-1.jpeg",
       "media/celebracoes/foto-5.jpeg",
@@ -196,7 +212,7 @@
     "datetime": "2020-12",
     "place": "",
     "role": "Organização e decoração",
-    "description": "Organização e decoração de chá revelação.",
+    "description": "Organizei e decorei um chá revelação.",
     "photos": [
       "media/celebracoes/foto-9.jpeg",
       "media/celebracoes/foto-10.jpeg",
@@ -213,12 +229,54 @@
     "datetime": "2015-10",
     "place": "",
     "role": "",
-    "description": "Registros do evento de Halloween da UnoI Educação.",
+    "description": "Registros do Halloween da UnoI Educação.",
     "photos": [
       "media/unoi-halloween-2015/foto-1.jpg",
       "media/unoi-halloween-2015/foto-2.jpg",
       "media/unoi-halloween-2015/foto-3.jpg"
     ],
     "videos": []
+  },
+  {
+    "id": "maroon-5-2026",
+    "title": "Maroon 5",
+    "date": "Setembro de 2026",
+    "datetime": "2026-09",
+    "place": "Nubank Parque",
+    "role": "",
+    "category": "outros",
+    "description": "Registro de participação no evento.",
+    "photos": [],
+    "videos": [
+      "media/maroon-5-2026/video-1.mp4"
+    ]
+  },
+  {
+    "id": "festa-junina-2023",
+    "title": "Festa junina corporativa",
+    "date": "2023",
+    "datetime": "2023",
+    "place": "",
+    "role": "",
+    "category": "outros",
+    "description": "Registro de participação no evento.",
+    "photos": [],
+    "videos": [
+      "media/festa-junina-2023/video-1.mp4"
+    ]
+  },
+  {
+    "id": "palestra-perus-pirapora",
+    "title": "Palestra sobre a Estrada de Ferro Perus–Pirapora",
+    "date": "Data não informada",
+    "datetime": "",
+    "place": "ETEC Parque da Juventude",
+    "role": "",
+    "category": "outros",
+    "description": "Registro de participação no evento.",
+    "photos": [],
+    "videos": [
+      "media/palestra-perus-pirapora/video-1.mp4"
+    ]
   }
 ]
