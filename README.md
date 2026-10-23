@@ -1,5 +1,13 @@
 # Érika Bezerra Eventos — landing page
 
+## Atualização visual de outubro de 2026
+
+Inicial enxuta voltada a contatos e orçamentos: retrato principal de Érika, funções, trabalhos selecionados, cinco perguntas frequentes e contato. As páginas Sobre, Funções, Trabalhos, Certificações e Depoimentos preservam o conteúdo detalhado. O rodapé e a marca são compartilhados nas seis páginas. O domínio existente em CNAME permanece erikabezerraeventos.com.br.
+
+`eventos-2026.css` define a camada visual e as transições. `efeitos-2026.js` aplica inclinação 3D suave a fotografias em dispositivos com mouse; respeita movimento reduzido e remove os efeitos quando a preferência muda. Sem dependências de animação. `img/marca/` contém o logo e o símbolo em SVG, com textos convertidos em curvas pelo VectorCraft. Arquivos nativos, PNGs e PDFs foram entregues em `outputs/marca/` no projeto local.
+
+Os testes verificaram a mensagem e o número do WhatsApp sem envio real, navegação das seis páginas, links, arquivos de imagem e mídia, ausência de rolagem horizontal em tela de 320 px e ativação/retorno da inclinação com mouse. Referências antigas a mídias ausentes foram retiradas; dados dos cursos e descrições de eventos foram mantidos.
+
 Site estático (HTML + CSS + JS puro), pronto para o GitHub Pages.
 
 ## Como publicar
