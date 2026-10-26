@@ -18,7 +18,7 @@
     return `Olá, Érika! Vim pelo seu site e gostaria de um orçamento.\n\nNome ou empresa: ${value('empresa') || 'A informar'}\nTipo de evento: ${value('tipo') || 'A informar'}\nData: ${eventDate}\nLocal ou região: ${value('regiao') || 'A informar'}\nServiço desejado: ${value('servico') || 'A informar'}\nHorário ou duração: ${value('horario') || 'A definir'}\nConvidados (aproximadamente): ${value('convidados') || 'Não informado'}\n\nObservações:\n${value('observacoes') || 'Sem observações adicionais.'}\n\nPodemos conversar sobre a disponibilidade e os valores?`;
   }
   function update() {
-    for (const name of ['empresa','regiao','horario']) field(name).setCustomValidity('');
+    for (const name of ['regiao','horario']) field(name).setCustomValidity('');
     syncDate();
     const message = buildMessage();
     preview.textContent = message;
@@ -30,7 +30,7 @@
   form.addEventListener('change', update);
   form.addEventListener('submit', event => {
     event.preventDefault(); update();
-    for (const name of ['empresa','regiao','horario']) {
+    for (const name of ['regiao','horario']) {
       if (!value(name)) field(name).setCustomValidity(name === 'horario' ? 'Informe o horário, a duração ou escreva “A definir”.' : 'Preencha este campo.');
     }
     if (!form.reportValidity()) {
