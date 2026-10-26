@@ -1,0 +1,8 @@
+/* Camada de acessibilidade e privacidade; carregada após os estilos da marca. */
+:focus-visible{outline:3px solid #7650ab!important;outline-offset:4px!important;box-shadow:0 0 0 7px #fff!important}
+.skip-content{position:absolute;left:12px;top:-200px;background:#fff;color:#172750;padding:14px;z-index:1000}.skip-content:focus{top:12px}
+.legal-links{display:flex!important;flex-wrap:wrap;justify-content:center;gap:18px;padding:24px;color:#fff}.legal-links a{color:#fff!important;text-decoration:underline!important;display:inline-block!important;min-height:44px}
+.privacy-notice{position:relative;background:#f3f4fa;color:#172750;padding:24px;border-top:2px solid #203f96;z-index:40}.privacy-notice p{max-width:75ch}.privacy-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px}.privacy-actions button,.privacy-settings{font:inherit;padding:12px 18px;background:#fff;color:#172750;border:2px solid #203f96;border-radius:6px;cursor:pointer;min-height:44px}.privacy-settings{margin:20px}
+.legal-page{max-width:850px;margin:auto;padding:40px 24px;overflow-wrap:anywhere}.legal-page h1{font-size:clamp(2rem,6vw,3.5rem)}.legal-page h2{font-size:1.5rem;margin:30px 0 12px}.legal-page p{margin:16px 0}.legal-page a{color:#203f96;text-decoration:underline}
+.quote-form input,.quote-form select,.quote-form textarea{border-color:#52617d!important}.quote-form input::placeholder,.quote-form textarea::placeholder{color:#52617d!important}.kick,.fine,.sub{color:#52617d}.event-footer .kick{color:#fff}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}}
