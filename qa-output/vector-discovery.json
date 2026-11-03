@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": {
+      "filter": "trace"
+    },
+    "tool": "command_list"
+  },
+  {
+    "arguments": {
+      "filter": "document.new"
+    },
+    "tool": "command_list"
+  },
+  {
+    "arguments": {
+      "filter": "text.font"
+    },
+    "tool": "command_list"
+  }
+]

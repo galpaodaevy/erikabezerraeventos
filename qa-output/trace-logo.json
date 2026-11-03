@@ -1,0 +1,13 @@
+[
+ {"tool":"open_file","arguments":{"path":"E:/projeto/Andrew Trafego pago/REF/site-erika-eventos/outputs/marca/conceito-logo-eb.png"}},
+ {"tool":"run_command","arguments":{"command":"select.all","params":{}}},
+ {"tool":"run_command","arguments":{"command":"imageTrace.makeAndExpand","params":{"params":{"mode":"blackAndWhite","threshold":160,"paths":85,"corners":45,"noise":12,"ignoreWhite":true,"fills":true,"strokes":false}}}},
+ {"tool":"run_command","arguments":{"command":"select.all","params":{}}},
+ {"tool":"set_paint","arguments":{"fill":"#203f96","stroke":"none"}},
+ {"tool":"run_command","arguments":{"command":"artboard.fitToArt","params":{}}},
+ {"tool":"save_file","arguments":{"path":"E:/projeto/Andrew Trafego pago/REF/site-erika-eventos/outputs/marca/simbolo-eb.vectorcraft"}},
+ {"tool":"export","arguments":{"path":"E:/projeto/Andrew Trafego pago/REF/site-erika-eventos/outputs/marca/simbolo-eb.svg","format":"svg"}},
+ {"tool":"export","arguments":{"path":"E:/projeto/Andrew Trafego pago/REF/site-erika-eventos/outputs/marca/simbolo-eb.png","format":"png","scale":1}},
+ {"tool":"inspect_document","arguments":{}},
+ {"tool":"run_command","arguments":{"command":"text.fontList","params":{}}}
+]

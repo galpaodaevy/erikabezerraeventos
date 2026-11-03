@@ -1,0 +1,16 @@
+[
+  {
+    "tool": "open_file",
+    "arguments": {
+      "path": "E:/projeto/Andrew Trafego pago/REF/site-erika-eventos/outputs/marca/logo-erika.svg"
+    }
+  },
+  {
+    "tool": "export",
+    "arguments": {
+      "path": "E:/projeto/Andrew Trafego pago/REF/site-erika-eventos/qa-output/logo-reaberto.png",
+      "scale": 2,
+      "format": "png"
+    }
+  }
+]

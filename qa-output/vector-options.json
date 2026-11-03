@@ -1,0 +1,26 @@
+[
+  {
+    "arguments": {
+      "filter": "select.all"
+    },
+    "tool": "command_list"
+  },
+  {
+    "arguments": {
+      "filter": "file.new"
+    },
+    "tool": "command_list"
+  },
+  {
+    "arguments": {
+      "filter": "artboard"
+    },
+    "tool": "command_list"
+  },
+  {
+    "arguments": {
+      "filter": "imageTrace.presets"
+    },
+    "tool": "command_list"
+  }
+]

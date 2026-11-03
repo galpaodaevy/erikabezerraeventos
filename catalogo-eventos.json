@@ -25,6 +25,56 @@
     ]
   },
   {
+    "description": "Atendimento ao público durante evento no Sesc Vila Mariana.",
+    "place": "Sesc Vila Mariana · São Paulo",
+    "datetime": "2026-10-21",
+    "role": "Atendente",
+    "date": "21 de outubro de 2026",
+    "videos": [],
+    "photos": [
+      "media/sesc-vila-mariana-2026/foto-1.jpeg",
+      "media/sesc-vila-mariana-2026/foto-2.jpeg"
+    ],
+    "id": "sesc-vila-mariana-2026",
+    "title": "Atendimento no Sesc Vila Mariana"
+  },
+  {
+    "description": "Atendimento no quiosque durante evento no Parque Villa-Lobos.",
+    "place": "Parque Villa-Lobos · São Paulo",
+    "datetime": "2026-10-23",
+    "role": "Atendente de quiosque",
+    "date": "23 de outubro de 2026",
+    "videos": [
+      "media/parque-villa-lobos-2026/video-1.mp4"
+    ],
+    "photos": [
+      "media/parque-villa-lobos-2026/foto-1.jpeg",
+      "media/parque-villa-lobos-2026/foto-2.jpeg",
+      "media/parque-villa-lobos-2026/foto-3.jpeg",
+      "media/parque-villa-lobos-2026/foto-4.jpeg",
+      "media/parque-villa-lobos-2026/foto-5.jpeg",
+      "media/parque-villa-lobos-2026/foto-6.jpeg"
+    ],
+    "id": "parque-villa-lobos-2026",
+    "title": "Atendimento de quiosque no Parque Villa-Lobos"
+  },
+  {
+    "description": "Atendimento no restaurante do Zoológico de São Paulo.",
+    "place": "Zoológico de São Paulo",
+    "datetime": "2026-10-28",
+    "role": "Atendente de restaurante",
+    "date": "28 de outubro de 2026",
+    "videos": [],
+    "photos": [
+      "media/zoologico-sp-2026/foto-1.jpeg",
+      "media/zoologico-sp-2026/foto-2.jpeg",
+      "media/zoologico-sp-2026/foto-3.jpeg",
+      "media/zoologico-sp-2026/foto-4.jpeg"
+    ],
+    "id": "zoologico-sp-2026",
+    "title": "Atendimento de restaurante no Zoológico de São Paulo"
+  },
+  {
     "id": "preparacao-maroon-5-2026",
     "title": "Preparação para o show do Maroon 5",
     "date": "Setembro de 2026",

@@ -22,5 +22,6 @@ Site estático (HTML + CSS + JS puro), pronto para o GitHub Pages.
 - `favicon.svg`, `favicon-32.png`, `apple-touch-icon.png` — ícones
 
 ## Ajustes rápidos
-- WhatsApp: variável `NUM` no final do `index.html` (formato 55 + DDD + número).
+- Formulário de orçamento: `orcamento-2026.js` monta a mensagem com nome, tipo, data (ou data indefinida), local, serviço, horário, convidados e observações. O visitante revisa e envia no WhatsApp; o site não armazena os dados. Ao trocar o telefone, atualizar também os links diretos nas páginas.
+- Certificações: acesso no menu principal, na inicial e no rodapé. 17 formações registradas; 15 imagens disponíveis para ampliar. Os dois registros antigos sem imagem mantêm os dados dos cursos.
 - Trocar uma foto: substitua o arquivo em `img/` mantendo o mesmo nome.
