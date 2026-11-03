@@ -1,5 +1,16 @@
 [
   {
+    "id": "sesc-pompeia-2026",
+    "title": "Atendimento como garçonete no Sesc Pompeia",
+    "date": "22 de outubro de 2026",
+    "datetime": "2026-10-22",
+    "place": "Sesc Pompeia · São Paulo",
+    "role": "Garçonete",
+    "description": "Atuei como garçonete no evento, atendendo o público e apoiando o serviço e a organização do salão.",
+    "photos": ["media/sesc-pompeia-2026/foto-1.jpeg", "media/sesc-pompeia-2026/foto-2.jpeg", "media/sesc-pompeia-2026/foto-3.jpeg", "media/sesc-pompeia-2026/foto-4.jpeg", "media/sesc-pompeia-2026/foto-5.jpeg"],
+    "videos": []
+  },
+  {
     "id": "eduardo-costa-2026",
     "title": "Show do Eduardo Costa",
     "date": "11 de outubro de 2026",
