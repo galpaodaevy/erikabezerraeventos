@@ -10,6 +10,17 @@ Os testes verificaram a mensagem e o número do WhatsApp sem envio real, navega�
 
 Site estático (HTML + CSS + JS puro), pronto para o GitHub Pages.
 
+## Privacidade e segurança
+
+- O Google Analytics só carrega após a pessoa aceitar no aviso; ela também pode rejeitar ou alterar a escolha no rodapé.
+- A escolha é guardada no armazenamento local do navegador. O site não instala cookies próprios de rastreamento.
+- O formulário de orçamento monta a mensagem no navegador e só a encaminha quando a pessoa decide abrir o WhatsApp.
+- Fontes hospedadas pelo Google foram removidas para evitar chamadas a esse terceiro antes da escolha.
+- A política em `privacidade.html` explica dados de navegação, hospedagem, formulário e links externos.
+- Antes de publicar, confirmar autorização de uso de fotos, vídeos, depoimentos e demais dados identificáveis de terceiros.
+
+No GitHub, limite acesso de escrita a pessoas de confiança, proteja a branch principal com revisão e ative alertas do Dependabot, secret scanning e push protection quando disponíveis. Mantenha autenticação de dois fatores e não publique tokens, senhas ou documentos privados. O conteúdo do site publicado pelo GitHub Pages é público e pode ser copiado.
+
 ## Como publicar
 1. Crie um repositório e envie **todo o conteúdo desta pasta** para a raiz (o `index.html` precisa ficar na raiz).
 2. No GitHub: Settings > Pages > Deploy from a branch > `main` / `(root)`.

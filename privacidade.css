@@ -1,0 +1,8 @@
+.privacy-banner[hidden]{display:none}
+.privacy-banner{position:fixed;z-index:1000;inset:auto 16px 16px;display:flex;align-items:flex-end;justify-content:space-between;gap:22px;max-width:1000px;margin-inline:auto;padding:20px 22px;background:#fff;color:#172750;border:1px solid #cbd3e8;border-radius:16px;box-shadow:0 12px 40px #101a3540;font:16px/1.5 system-ui,sans-serif}
+.privacy-banner__copy{max-width:650px}.privacy-banner__copy strong{display:block;margin-bottom:5px;font-size:1.1rem}.privacy-banner__copy p{margin:0}.privacy-banner a{color:#173f99;text-decoration:underline;text-underline-offset:3px}
+.privacy-banner__actions{display:flex;flex-wrap:wrap;gap:10px;flex-shrink:0}.privacy-banner button{min-height:44px;padding:9px 14px;border:2px solid #203f96;border-radius:8px;background:#fff;color:#203f96;font:700 .95rem system-ui,sans-serif;cursor:pointer}.privacy-banner button[data-choice=accept]{background:#203f96;color:#fff}.privacy-banner button:focus-visible,.privacy-banner a:focus-visible{outline:3px solid #db8a31;outline-offset:3px}
+.privacy-settings-link{margin:0;padding:0;border:0;background:none;color:inherit;font:inherit;text-decoration:underline;text-underline-offset:3px;cursor:pointer}.privacy-settings-link:focus-visible{outline:3px solid #db8a31;outline-offset:3px}
+@media(max-width:700px){.privacy-banner{inset:auto 10px 10px;display:block;padding:16px}.privacy-banner__actions{margin-top:12px}.privacy-banner button{flex:1}}
+@media(prefers-reduced-motion:reduce){.privacy-banner *{scroll-behavior:auto}}
+
